@@ -1,0 +1,19 @@
+body { 
+  margin: 0; padding: 0; 
+}
+  
+  #map {
+    position: absolute;
+    top: 8%;
+    bottom: 0px;
+    width: 100%;
+   }  
+
+  h2 {
+    font-family: arial; color: #E85A21;
+    border-bottom: 2px solid #F67D4D;
+    border-right: 2px solid #F67D4D;
+    width: 500px;
+    text-align: center;
+    margin-top: 5px;
+  }
